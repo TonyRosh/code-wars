@@ -13,7 +13,7 @@
 //         ["ground", "rainbow", "sky"] = ["sky", "rainbow", "ground"]
 
 
-// kata 8
+// 8kyu
 
 
 const fixTheMeerkat = arr => arr.reverse()
