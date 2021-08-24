@@ -11,3 +11,7 @@ function ensureQuestion(s) {
         return s + '?'
     }
 }
+
+// OR
+
+const ensureQuestion = s => s.split('?').join('').concat('?')
