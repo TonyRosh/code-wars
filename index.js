@@ -5,9 +5,9 @@
 // 8kyu
 
 function ensureQuestion(s) {
-    if(s.includes('?')) {
-       return s
-       } else {
-         return s + '?'
-       }
-  }
+    if (s.includes('?')) {
+        return s
+    } else {
+        return s + '?'
+    }
+}
